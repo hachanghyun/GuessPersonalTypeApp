@@ -24,5 +24,3 @@ by Native React (expo)
 #### (a).application-{profile}.properties 설정파일
 	@Value : 자바코드에서 설정값 사용가능
  	@TestProperty : @TestPropertySource(locations = "classpath:/ApplicationTest.properties") TEST 코드 작성시 H2 데이터베이스로 사용
-
-
