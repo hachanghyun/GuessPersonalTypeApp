@@ -18,6 +18,6 @@ export default function App() {
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
       <Text>{message}</Text>
       <Button title="Fetch Data" onPress={fetchData} />
-    </View>
+    </View> 
   );
 }
